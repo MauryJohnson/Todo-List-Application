@@ -34,7 +34,7 @@ ToDo List by Maury Johnson
 	a. For those who want even more flexibility with their alerts, find Set Notification Button on bottom right of Set Alert Window.
 	b. You will be able to add or delete a notification date before due date in two formats:
 		i. The first format will be with Notify Before Due Date toggle button off. You will enter a date, time, or both. The date and time entries will be handled the same way they were for Set Alert, and you will be alerted of the task at the added date and time.
-		ii. The second format will require Notify Before Due Date toggle button to be on. You will enter a time in the text field to the right. This time will correspond to the amount f hours, minutes, and seconds to be notified before the due date. For example:
+		ii. The second format will require Notify Before Due Date toggle button to be on. You will enter a time in the text field to the right. This time will correspond to the amount of hours, minutes, and seconds to be notified before the due date. For example:
 	1:22:00 will set up a notification that is 1 hour, 22 minutes, and 0 seconds before the due date time.
 		iii. Deletion of a notification only requires the notification to be selected and the Delete Notification button to be clicked.
 	c. You can also add multiple notifications usinng AddUntil and DeleteUntil buttons.
