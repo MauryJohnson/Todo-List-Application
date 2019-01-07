@@ -15,7 +15,7 @@ ToDo List by Maury Johnson
 	a. This is where you can add and delete todo's.
 	b. Quick adding feature allowed.
 		i. For example, when adding a todo, can add a todo and all tasks using Add TODO button in the format: ToDo_Name1,Task_Name1,Task_Name2,Task_Name3.
-		ii. When a ToDo is selected, can add one or multiple tasks using Add Task button in the format: Task_Name1,Task_Name2,Task_Name3.
+		ii. When a ToDo is selected, can add one or multiple tasks using Add Task button in the format: Task_Name1,Assignment_Name2,Assignment_Name3.
 		iii. No duplicate ToDo names or Task Names within a ToDo are allowed.
 		iv. View TODO will allow user to view all tasks of ToDo selected and add, delete, or view task.
 		v. Set Alert button will allow you to view all tasks of ToDo selected and set an alert to be used to notify user of a task to be done for a specific ToDo.
